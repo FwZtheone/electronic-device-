@@ -2,6 +2,6 @@
 
 
 <img src="picture/appareil.PNG" />
-![](picture/appareil.png)
+![](picture/appareil.PNG)
 
 ![](picture/capture.png)
