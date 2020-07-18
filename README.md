@@ -1,6 +1,4 @@
-# electronic-device-
-simple app front end, you manage all device (build with angular 8)
-
+#Images in Readme
 
 ![](picture/appareil.png)
 
