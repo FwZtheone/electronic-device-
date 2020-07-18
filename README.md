@@ -1,5 +1,4 @@
-#Images in Readme
-
+frontend with angular 
 
 #eletronic 
 <img src="picture/appareil.PNG" />
