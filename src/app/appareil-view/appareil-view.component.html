@@ -1,0 +1,13 @@
+ <div class="col-xs-12"> 
+      <h2> mes appareils </h2>
+      <p> Mis à jour : {{lastUpdate | async | date: 'medium' }} </p>
+      <ul class="list-group">
+        <app-appareil *ngFor="let appareil of appareils; let i = index;"
+        [indexOfAppareil]="i"
+        [appareilName]="appareil.name"
+        [appareilStatut]="appareil.statut" 
+        [id]="appareil.id"> </app-appareil>
+      </ul>
+      <button class="btn btn-success "   (click)="onAllumer()"> Valider </button>
+      <button class="btn btn-danger " (click)="onOff()">tout éteindre </button>
+</div>
