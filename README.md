@@ -1,7 +1,7 @@
 #Images in Readme
 
 
-<img src="picture/appareil.png" />
+<img src="picture/appareil.PNG" />
 ![](picture/appareil.png)
 
 ![](picture/capture.png)
