@@ -1,7 +1,14 @@
 #Images in Readme
 
 
+#eletronic 
 <img src="picture/appareil.PNG" />
-![](picture/appareil.PNG)
 
-![](picture/capture.png)
+#home
+<img src="picture/capture.PNG" />
+
+#forms register
+<img src="picture/forms.PNG" />
+
+#create user
+<img src="picture/user.PNG" />
